@@ -1,3 +1,3 @@
 # assignments
-python assignments 
-in this file there are three problems for python beginners. 
+# python assignments 
+In this file there are three problems for python beginners. 
